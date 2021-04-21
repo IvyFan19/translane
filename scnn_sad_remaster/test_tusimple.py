@@ -1,5 +1,4 @@
-# This code is modified based on https://github.com/OpenBanboo/translane/blob/main/scnn_remaster/test_tusimple.py
-# by Fang Lin: flin4@stanford.edu
+
 import argparse
 import json
 import os
